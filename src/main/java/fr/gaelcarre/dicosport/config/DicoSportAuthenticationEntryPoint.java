@@ -10,7 +10,9 @@ import javax.servlet.http.HttpServletResponse;
 import org.slf4j.Logger;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.authentication.www.BasicAuthenticationEntryPoint;
+import org.springframework.stereotype.Component;
 
+@Component
 public class DicoSportAuthenticationEntryPoint extends BasicAuthenticationEntryPoint {
 
 	private static Logger logger = org.slf4j.LoggerFactory.getLogger(DicoSportAuthenticationEntryPoint.class);
@@ -20,7 +22,6 @@ public class DicoSportAuthenticationEntryPoint extends BasicAuthenticationEntryP
 			final AuthenticationException authException) throws IOException, ServletException {
 		// Authentication failed, send error response.
 		response.setStatus(HttpServletResponse.SC_UNAUTHORIZED);
-		response.addHeader("WWW-Authenticate", "Basic realm=" + getRealmName() + "");
 
 		PrintWriter writer = response.getWriter();
 		logger.info(authException.getMessage());
@@ -29,7 +30,7 @@ public class DicoSportAuthenticationEntryPoint extends BasicAuthenticationEntryP
 
 	@Override
 	public void afterPropertiesSet() throws Exception {
-		setRealmName("REFCOLLAB");
+		setRealmName("DICOSPORT");
 		super.afterPropertiesSet();
 	}
 }

@@ -1,0 +1,809 @@
+Competitive dancing;0
+Cheerleading;1
+Gymnastics;2
+Aerobatics;3
+Air racing;4
+Cluster ballooning;5
+Hopper ballooning;6
+Field archery;7
+Flight archery;8
+Gungdo;9
+Indoor archery;10
+Popinjay;12
+Target archery;13
+Badminton;14
+Ball badminton;15
+Biribol;16
+Bossaball;17
+Fistball;18
+Footbag net;19
+Football tennis;20
+Footvolley;21
+Hooverball;22
+Jianzi;23
+Padel;24
+Peteca;25
+Pickleball;26
+Platform tennis;27
+Rocball;28
+Sepak takraw;29
+Sipa;30
+Table tennis;31
+Tennis;32
+Throwball;33
+Volleyball;34
+Beach volleyball;35
+Paralympic volleyball;36
+Water volleyball;37
+Wallyball;38
+Basketball;39
+Beach basketball;40
+Deaf basketball;41
+Streetball;42
+Unicycle basketball;43
+Water basketball;44
+Wheelchair basketball;45
+Cestoball;46
+Korfball;47
+Netball;48
+Fastnet;49
+Indoor netball;50
+Ringball;51
+Slamball;52
+SportRelay Ball;53
+Baseball;54
+Softball;55
+Slow pitch;56
+Fast-pitch softball;57
+16-inch softball;58
+Bat and trap;59
+British baseball â€“ four posts;60
+BrÃ¤nnboll â€“ four bases;61
+Corkball â€“ four bases (no base-running);62
+Cricket â€“ two creases;63
+Indoor cricket;64
+Limited overs cricket;65
+One Day International;66
+Test cricket;67
+Twenty20;68
+Danish longball;69
+Kickball;70
+Kilikiti;71
+Lapta â€“ two salos (bases);72
+The Massachusetts Game â€“ four bases;73
+Matball;74
+Oina;75
+Old cat â€“ variable;76
+Over-the-line â€“ qv;77
+Palant;78
+PesÃ¤pallo â€“ four bases;79
+Punchball;80
+Rounders â€“ four bases or posts;81
+Scrub baseball â€“ four bases (not a team game per	se);82
+Stickball â€“ variable;83
+Stool ball â€“ two stools;84
+Tee-ball;85
+Town ball â€“ variable;86
+Vigoro â€“ two wickets;87
+Wireball;88
+Wiffleball;89
+Baton twirling;90
+Skateboarding;91
+Casterboarding;92
+Freeboard (skateboard);93
+Longboarding;94
+Streetboarding;95
+Scootering;96
+Skysurfing;97
+Streetluge;98
+Snowboarding;99
+Mountainboarding;100
+Sandboarding;101
+Snowkiting;102
+Surfing;103
+Wakesurfing;104
+Bodyboarding;105
+Riverboarding;106
+Skimboarding;107
+Windsurfing;108
+Wakeboarding;109
+Kneeboarding;110
+Paddleboarding;111
+Dodgeball;112
+Ga-ga;113
+Keep away;114
+Kin-Ball;115
+Newcomb ball;116
+Quidditch;117
+Yukigassen;118
+Abseiling;119
+Aid climbing;120
+Ice climbing;121
+Mixed climbing;122
+Mountaineering;123
+Rock climbing;124
+Bouldering;125
+Deep-water soloing;126
+Sport climbing;127
+Traditional climbing;128
+Other;129
+Canyoning (Canyoneering);130
+Coasteering;131
+Hiking;132
+Rope climbing;133
+Pole climbing;134
+Artistic cycling;135
+BMX;136
+Cyclo-cross;137
+Cross-country mountain biking;138
+Cycle polo;139
+Cycle speedway;140
+Downhill mountain biking;141
+Dirt jumping;142
+Freestyle BMX;143
+Hardcourt Bike Polo;144
+Road bicycle racing;145
+Track cycling;146
+Underwater cycling;147
+Skibobbing;148
+Mountain unicycling;149
+Street unicycling;150
+Unicycling;151
+Unicycle hockey;153
+Unicycle trials;154
+Aiki-jÅ«jutsu;155
+Aikido;156
+Jujutsu;157
+Judo;158
+Brazilian jiu-jitsu;159
+Sambo (martial art);160
+Sumo;161
+Wrestling;162
+Amateur wrestling;163
+Greco-Roman wrestling;164
+Freestyle wrestling;165
+Folk wrestling;166
+Boli Khela;167
+Collar-and-elbow;168
+Cornish wrestling;169
+Dumog;170
+Glima;171
+Gouren;172
+Kurash;173
+Lancashire wrestling;174
+Catch wrestling;175
+Malla-yuddha;176
+Mongolian wrestling;177
+Pehlwani;178
+Professional wrestling;179
+Schwingen;180
+Shuai jiao;181
+Ssireum;182
+Varzesh-e Pahlavani;183
+YaÄŸlÄ± GÃ¼reÅŸ;184
+Greek wrestling;185
+Choi Kwang-Do;186
+Cockfighting;187
+Boxing;188
+Bokator;189
+Capoeira;190
+Fujian White Crane;191
+Karate;192
+KenpÅ�;193
+Kickboxing;194
+Lethwei;195
+Muay Thai;196
+Pradal serey;197
+Sanshou;198
+Savate;199
+Shaolin Kung Fu;200
+Sikaran;201
+Silat;202
+Subak;203
+Taekkyeon;204
+Taekwondo;205
+TaidÅ�;206
+Tang Soo Do;207
+Wing Chun;208
+Baguazhang;209
+Bando;210
+Bartitsu;211
+Bujinkan;212
+Hapkido;213
+Hwa Rang Do;214
+Jeet Kune Do;215
+Kajukenbo;216
+Kalaripayattu;217
+Krav Maga;218
+Kuk Sool Won;219
+Marine Corps Martial Arts Program;220
+Mixed martial arts;221
+Northern Praying Mantis;222
+Ninjutsu;223
+Pankration;224
+Pencak Silat;225
+ShidÅ�kan Karate;227
+ShÅ�rin-ryÅ« ShidÅ�kan;228
+Shoot boxing;229
+Shootfighting;230
+Shorinji Kempo;231
+Systema;232
+T'ai chi ch'uan;233
+Vajra-mushti;234
+Vale tudo;235
+Vovinam;236
+Xing Yi Quan;237
+Zen Bu Kan Kempo;238
+Axe throwing;239
+BattÅ�jutsu;240
+Boffer fighting;241
+Eskrima;242
+Egyptian stick fencing;243
+Fencing;244
+Gatka;245
+HojÅ�jutsu;246
+IaidÅ�;247
+Iaijutsu;248
+JÅ�dÅ�;249
+Jogo do pau;250
+JÅ«kendÅ�;251
+Jittejutsu;252
+Kendo;253
+Kenjutsu;254
+Krabiâ€“krabong;255
+Kung fu;256
+Modern Arnis;259
+Naginatajutsu;260
+Nguni stick-fighting;261
+Okinawan kobudÅ�;262
+Shurikenjutsu;263
+Silambam;264
+SÅ�jutsu;265
+Sword fighting;266
+Wushu;267
+Kumdo;268
+Carom billiards;270
+Three-cushion;271
+Five-pins;272
+Balkline and straight rail;273
+Cushion caroms;274
+Four-ball (yotsudama);275
+Artistic billiards;276
+carromNovuss (and cued forms of );277
+Pocket billiards (pool);278
+Eight-ball;279
+Blackball (a.k.a. British eight-ball pool);280
+Nine-ball;281
+Straight pool (14.1 continuous);282
+One-pocket;283
+Three-ball;284
+Seven-ball;285
+Ten-ball;286
+Rotation;287
+Baseball pocket billiards;288
+Cribbage (pool);289
+Bank pool;290
+Artistic pool;291
+Trick shot competition;292
+Speed pool;293
+Bowlliards;294
+Chicago;295
+Kelly pool;296
+Cutthroat;297
+Killer;298
+Russian pyramid;299
+Snooker;300
+Sinuca brasileira;301
+Six-red snooker;302
+Snooker plus;303
+Hybrid caromâ€“pocket games;304
+English billiards;305
+Bottle pool;306
+Cowboy;307
+Obstacle variations;308
+Bagatelle;309
+Bar billiards;310
+Bumper pool;311
+Table Sports;312
+Foosball;313
+Buzkashi;314
+Barrel racing;315
+Campdrafting;316
+Cirit;317
+Charreada;318
+Chilean rodeo;319
+Cross country;320
+Cutting;321
+Dressage;322
+Endurance riding;323
+English pleasure;324
+Equitation;325
+Eventing;326
+Equestrian vaulting;327
+Gymkhana;328
+Harness racing;329
+Horse racing;330
+Horseball;331
+Hunter;332
+Hunter-jumpers;333
+Jousting;334
+Pato;335
+Reining;336
+Rodeo;337
+Show jumping;338
+Steeplechase;339
+Sur-papakh;340
+Team penning;341
+Tent pegging;342
+Western pleasure;343
+Angling;344
+Big-game fishing;345
+Casting;346
+Noodling;347
+Spearfishing;348
+Sport fishing;349
+Surf fishing;350
+Rock fishing;351
+Fly fishing;352
+Ice fishing;353
+Beach ultimate;354
+Disc dog;355
+Disc golf;356
+Disc golf (urban);357
+Dodge disc;358
+Double disc court;359
+Flutterguts;360
+Freestyle;361
+Freestyle competition;362
+Goaltimate;363
+Guts;364
+Hot box;365
+Ultimate;366
+Ancient games;367
+Chinlone;368
+Cuju;369
+Episkyros;370
+Harpastum;371
+Kemari;372
+Ki-o-rahi;373
+Marn Grook;374
+Woggabaliri;375
+Yubi lakpi;376
+Medieval football;377
+Ba game;378
+Caid;379
+Calcio Fiorentino;380
+Camping (game);381
+Cnapan;382
+Cornish hurling;383
+Haxey Hood;384
+Knattleikr;385
+La soule;386
+Lelo burti;387
+Mob football;388
+Royal Shrovetide Football;389
+Uppies and Downies;390
+Association football;391
+Jorkyball;392
+Paralympic football;393
+Powerchair Football;394
+Reduced variants;395
+Five-a-side football;396
+Beach soccer;397
+Futebol de SalÃ£o;398
+Futsal;399
+Papi fut;400
+Indoor soccer;401
+Masters Football;402
+Street football;403
+Freestyle football;404
+Keepie uppie;405
+Swamp football;406
+Three sided football;407
+Australian football;408
+Nine-a-side footy;409
+Rec footy;410
+Metro footy;411
+English school games;412
+Eton College;413
+Field game;414
+Wall game;415
+Harrow football;416
+Gaelic football;417
+Ladies' Gaelic football;418
+Gridiron football;419
+American football;420
+Eight-man football;421
+Flag football;422
+Indoor football;423
+Arena football;424
+Nine-man football;425
+Six-man football;426
+Sprint football;427
+Touch football;428
+Canadian football;429
+Street football (American);430
+Rugby football;431
+Beach rugby;432
+Rugby league;433
+Masters Rugby League;434
+Mod league;435
+Rugby league nines;436
+Rugby league sevens;437
+Tag rugby;438
+Wheelchair rugby league;440
+Rugby union;441
+American flag rugby;442
+Mini rugby;443
+Rugby sevens;444
+Touch rugby;446
+Rugby tens;447
+Snow rugby;448
+Hybrid codes;449
+Austus;450
+Eton wall game;451
+International rules football;452
+Samoa rules;453
+Speedball;454
+Universal football;455
+Volata;456
+Miniature golf;457
+Match play;458
+Skins game;459
+Speed golf;460
+Stroke play;461
+Team play;462
+Shotgun start;463
+Urban Golf;464
+Acrobatic gymnastics;465
+Aerobic gymnastics;466
+Artistic gymnastics;467
+Balance beam;468
+Floor;469
+High bar;470
+Parallel bars;471
+Pommel horse;472
+Still rings;473
+Uneven bars;474
+Vault;475
+Juggling;476
+Rhythmic gymnastics;477
+Ball;478
+Club;479
+Hoop;480
+Ribbon;481
+Rope;482
+Rope jumping;483
+Slacklining;484
+Trampolining;485
+Trapeze;486
+Flying trapeze;487
+Static trapeze;488
+Tumbling;489
+Goalball;490
+Tchoukball;491
+Team handball;492
+Beach handball;493
+Czech handball;494
+Field handball;495
+Torball;496
+Water polo;497
+Beagling;498
+Big game hunting;499
+Deer hunting;500
+Fox hunting;501
+Hare coursing;502
+Wolf hunting;503
+Bandy;504
+Rink bandy;505
+Broomball;506
+Moscow broomball;507
+Curling;508
+Ice hockey;509
+Ringette;510
+Ice yachting;511
+Figure skating;512
+Single skating (men's and ladies' singles);513
+Pair skating;514
+Ice dancing;515
+Kite buggy;516
+Kite fighting;517
+Kite landboarding;518
+Kitesurfing;519
+Parasailing;520
+Snow kiting;521
+Sport kite (Stunt kite);522
+Adventure racing;523
+Biathlon;524
+Duathlon;525
+Decathlon;526
+Heptathlon;527
+Icosathlon;528
+Modern pentathlon;529
+Pentathlon;530
+Tetrathlon;531
+Triathlon;532
+Geocaching;533
+Orienteering;534
+Rogaining;535
+Letterboxing;536
+Waymarking;537
+American handball;538
+Australian handball;539
+Basque pelota;540
+Jai alai;541
+Fives;542
+Eton Fives;543
+Rugby Fives;544
+Frisian handball;545
+Four square;546
+Gaelic handball;547
+Jeu de paume;548
+Palla;549
+Patball;550
+Valencian pilota;551
+Frontenis;555
+Xare;556
+Beach tennis;557
+Matkot;558
+Miniten;559
+Paleta FrontÃ³n;561
+Pelota mixteca;562
+Qianball;565
+Racketlon;566
+Racquetball;567
+Racquets;568
+Real tennis;569
+Soft tennis;570
+Speed-ball;571
+Speedminton;572
+Squash;573
+Hardball squash;574
+Squash tennis;575
+StickÃ©;576
+Tennis polo;579
+Model aerobatics;580
+RC racing;581
+Robot combat;582
+Slot car racing;583
+Bullriding;584
+Miniature Bull Riding;585
+Bronc Riding;587
+Saddle Bronc Riding;588
+Bareback Bronc Riding;589
+Pole bending;590
+Roping;591
+Breakaway Roping;592
+Calf Roping;593
+Team Roping;594
+Steer Roping;595
+Steer Wrestling;596
+Goat Tying;597
+Endurance;598
+5K run;599
+10K run;600
+Cross-country running;601
+Half marathon;602
+Marathon;603
+Road running;604
+Ekiden;605
+Tower running;606
+Ultramarathon;607
+Snowshoe running;608
+Fell running;609
+Trail running;610
+Mountain running;611
+Skyrunning;612
+Land sailing;614
+Land windsurfing;615
+Sailing;616
+Kiteboarding;618
+Dinghy sailing;619
+Alpine skiing;620
+Freestyle skiing;621
+Nordic combined;622
+Nordic skiing;623
+Cross-country skiing;624
+Telemark skiing;625
+Ski jumping;626
+Ski touring;627
+Skijoring;628
+Speed skiing;629
+Bobsleigh;630
+Luge;631
+Skeleton;633
+Toboggan;634
+Clay pigeon shooting;635
+Skeet shooting;636
+Trap shooting;637
+Sporting clays;638
+Target shooting;639
+Field target;640
+Fullbore target rifle;641
+High power rifle;642
+Benchrest shooting;643
+Metallic silhouette;644
+Practical shooting;645
+Cowboy action shooting;646
+Metallic silhouette shooting;647
+Card stacking;648
+Dice stacking;649
+Sport stacking;650
+Hockey;651
+Ball hockey;652
+Field hockey;658
+Indoor field hockey;659
+Floorball;660
+Pond hockey;662
+Power hockey;663
+Sledge hockey;664
+Underwater ice hockey;665
+Rinkball;667
+Roller hockey;668
+Inline hockey;669
+Roller hockey (Quad);670
+Skater hockey;671
+Rossall Hockey;672
+Spongee;673
+Street hockey;674
+Underwater hockey;675
+Cammag;677
+Hurling;678
+Camogie;679
+Shinty;680
+Composite rules shinty-hurling;681
+Lacrosse;682
+Box lacrosse;683
+Field lacrosse;684
+Women's lacrosse;685
+Intercrosse;686
+Polo;687
+Bicycle polo;688
+Canoe polo;689
+Cowboy polo;690
+Elephant polo;691
+Horse polo;692
+Segway polo;693
+Yak polo;694
+Free running;695
+Freestyle footbag;696
+Powerbocking;698
+Parkour;699
+Street workout;701
+British bulldogs (American Eagle);702
+Capture the flag;703
+Hana Ichi Monme;704
+Hide and seek;705
+Jugger;706
+Kabaddi;707
+Kho kho;708
+Kick the can;709
+Oztag;710
+Red rover;711
+Tag;712
+Backpacking (wilderness);714
+Racewalking;715
+Bushwhacking;716
+Walking;717
+Butts Up;721
+Chinese handball;722
+International fronton;725
+Suicide (game);730
+Valencian frontÃ³;731
+Wallball;732
+Canoeing;734
+Outrigger canoeing;735
+Creeking;736
+Flyak;737
+Freeboating;738
+Sea kayaking;739
+Squirt boating;740
+Surf kayaking;741
+Whitewater kayaking;742
+Rafting;743
+White water rafting;744
+Rowing (sport);745
+Gig racing;746
+Coastal and ocean rowing;747
+Surfboat;748
+Single scull;749
+Dragon boat racing;750
+Stand up paddle boarding;751
+Backstroke;754
+Breaststroke;755
+Butterfly stroke;756
+Freestyle swimming;757
+Individual medley;758
+Synchronized swimming;759
+Medley relay;760
+Apnoea finswimming;761
+Aquathlon (underwater wrestling);762
+Freediving;763
+Immersion finswimming;764
+Scuba diving;765
+Snorkelling;767
+Sport diving (sport);768
+Underwater orienteering;770
+Underwater photography (sport);771
+Underwater target shooting;772
+Cliff diving;773
+Diving;774
+Basque traditional weightlifting;775
+Bodybuilding;776
+Highland games;777
+Olympic weightlifting;778
+Powerlifting;779
+Strength athletics (strongman);780
+Steinstossen;781
+CrossFit;782
+Autocross (a.k.a. Slalom);783
+Autograss;784
+Banger racing;785
+Board track racing;786
+Demolition derby;787
+Desert racing;788
+Dirt track racing;789
+Drag racing;790
+Drifting;791
+Folkrace;792
+Formula racing;793
+Formula Libre;794
+Formula Student;795
+Hillclimbing;796
+Ice racing;797
+Kart racing;798
+Land speed records;799
+Legends car racing;800
+Midget car racing;801
+Monster truck;802
+Mud bogging;803
+Off-road racing;804
+Pickup truck racing;805
+Production car racing;806
+Race of Champions;807
+Rally raid;808
+Rallycross;809
+Rallying;810
+Regularity rally;811
+Road racing;812
+Short track motor racing;813
+Snowmobile racing;814
+Sports car racing;815
+Sprint car racing;816
+Street racing;817
+Stock car racing;818
+Time attack;819
+Tractor pulling;820
+Touring car racing;821
+Truck racing;822
+Vintage racing;823
+Wheelstand competition;824
+Drag boat racing;825
+F1 powerboat racing;826
+Hydroplane racing;827
+Jet sprint boat racing;828
+Offshore powerboat racing;829
+Personal water craft;830
+Auto Race;831
+Cross-country rally;833
+Endurance racing;834
+Enduro;835
+Freestyle motocross;836
+Grand Prix motorcycle racing;837
+Grasstrack;838
+Ice speedway;841
+Indoor enduro;842
+Motocross;843
+Motorcycle drag racing;844
+Motorcycle speedway;845
+Off-roading;846
+Superbike racing;849
+Supercross;850
+Supermoto;851
+Supersport racing;852
+Superside;853
+Track racing;854
+Trial;855
+TT racing;856
+Free-style moto;857
+All-terrain vehicle competition;858

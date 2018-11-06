@@ -8,16 +8,16 @@ import org.neo4j.ogm.annotation.StartNode;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-@RelationshipEntity(type = "CATEGORIZED_UNDER")
-public class SubCategory {
+@RelationshipEntity(type = "SPORT_UNDER")
+public class SubSport {
 	@Id
 	@GeneratedValue
 	private Long id;
 	@StartNode
 	@JsonIgnore
-	Category start;
+	Sport start;
 	@EndNode
-	Category end;
+	Sport end;
 
 	/**
 	 * @return the id
@@ -37,7 +37,7 @@ public class SubCategory {
 	/**
 	 * @return the start
 	 */
-	public Category getStart() {
+	public Sport getStart() {
 		return this.start;
 	}
 
@@ -45,14 +45,14 @@ public class SubCategory {
 	 * @param start
 	 *            the start to set
 	 */
-	public void setStart(Category start) {
+	public void setStart(Sport start) {
 		this.start = start;
 	}
 
 	/**
 	 * @return the end
 	 */
-	public Category getEnd() {
+	public Sport getEnd() {
 		return this.end;
 	}
 
@@ -60,7 +60,7 @@ public class SubCategory {
 	 * @param end
 	 *            the end to set
 	 */
-	public void setEnd(Category end) {
+	public void setEnd(Sport end) {
 		this.end = end;
 	}
 

@@ -9,7 +9,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.data.neo4j.repository.config.EnableNeo4jRepositories;
 
-import fr.gaelcarre.dicosport.rest.controller.InitController;
+import fr.gaelcarre.dicosport.rest.controller.InitControllerV2;
 
 @SpringBootApplication(exclude = { Neo4jDataAutoConfiguration.class })
 @EnableNeo4jRepositories("fr.gaelcarre.dicosport.repository")
@@ -19,7 +19,7 @@ import fr.gaelcarre.dicosport.rest.controller.InitController;
 public class Application {
 
 	@Autowired
-	private static InitController initController;
+	private static InitControllerV2 initController;
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);

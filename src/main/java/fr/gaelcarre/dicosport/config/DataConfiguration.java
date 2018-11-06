@@ -2,6 +2,7 @@ package fr.gaelcarre.dicosport.config;
 
 import org.neo4j.ogm.config.ClasspathConfigurationSource;
 import org.neo4j.ogm.config.ConfigurationSource;
+import org.neo4j.ogm.session.LoadStrategy;
 import org.neo4j.ogm.session.SessionFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -17,7 +18,9 @@ public class DataConfiguration {
 	@Bean
 	public SessionFactory sessionFactory() {
 		// with domain entity base package(s)
-		return new SessionFactory(configuration(), "fr.gaelcarre.dicosport.pojo");
+		SessionFactory sf = new SessionFactory(configuration(), "fr.gaelcarre.dicosport.pojo");
+		sf.setLoadStrategy(LoadStrategy.SCHEMA_LOAD_STRATEGY);
+		return sf;
 	}
 
 	@Bean
